@@ -1,6 +1,6 @@
-Due to privacy concerns, I'm migrating all my projects to codeberg.org. Foss Browser, which is published on F-Droid, should be build from the new repo, since I plan to archive all my Github-repos.
+__Due to privacy concerns, I'm migrating all my projects to codeberg.org. Foss Browser, which is published on F-Droid, should be build from the new repo, since I plan to archive all my Github-repos.__
 
-- Link to FOSS Browser n F-Droid store: https://f-droid.org/de/packages/de.baumann.browser
+- Link to FOSS Browser in F-Droid store: https://f-droid.org/de/packages/de.baumann.browser
 - Link to old Github-repo: https://github.com/scoute-dich/browser
 - Link to new Codeberg-repo: https://codeberg.org/Gaukler_Faun/FOSS_Browser
 
